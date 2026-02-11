@@ -1,0 +1,13 @@
+
+# YOLO outputs
+runs/
+exp/
+*.pt
+*.cache
+
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
