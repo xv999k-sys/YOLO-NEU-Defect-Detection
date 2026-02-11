@@ -1,0 +1,5 @@
+train: C:/Users/admin/Desktop/YOLO-NEU-Defect-Detection/Dataset/train/images         
+val: C:/Users/admin/Desktop/YOLO-NEU-Defect-Detection/Dataset/validation/images
+
+nc: 6
+names: ["crazing", "inclusion", "patches", "scratches", "rolled-in_scale", "pitted_surface"]
