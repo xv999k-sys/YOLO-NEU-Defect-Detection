@@ -54,3 +54,8 @@ It successfully finds ~66% of all actual defects in images.
 Strong performance for a lightweight model trained on CPU.
 
 _______________________________________________________________________________________________________________________
+
+📸 Demo Results
+
+Example predictions on validation images:
+
