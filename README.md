@@ -59,3 +59,8 @@ ________________________________________________________________________________
 
 Example predictions on validation images:
 
+![pred1](demo/val_batch0_labels.jpg)
+![pred2](demo/val_batch0_pred.jpg)
+![pred3](demo/val_batch2_labels.jpg)
+
+
